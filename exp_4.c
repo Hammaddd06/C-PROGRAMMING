@@ -2,6 +2,11 @@
 int prime(int,int);
 void main()
 {
+    /*
+    NAME:- HAMMAD RAFI AHMAD KHAN
+    CLASS:- COMPS F.Y. DIVISION:- C-3
+    UNI:- 251P053
+    */
     int x,y,z;
     printf("Enter the 1st number:");
     scanf("%d",&x);
