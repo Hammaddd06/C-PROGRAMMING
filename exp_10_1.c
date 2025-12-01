@@ -2,9 +2,9 @@
 
 int main() {
     /*
-    SHAIKH AWEZ SALLWUDIN
+    NAME:- HAMMAD RAFI AHMAD KHAN
     CLASS:- COMPS F.Y. DIVISION:- C-3
-    UIN:- 251P050
+    UIN:- 251P053
     */
     int a, b, *p, *q;
 
